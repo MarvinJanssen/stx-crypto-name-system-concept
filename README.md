@@ -59,3 +59,10 @@ Start a console session:
 7. How can CNS devs be paid? Do they need to be? Generic STX manager has dev
    fee system but how about the root manager?
 8. How to deal with upper and lower case names?
+
+# License
+
+Copyright (c) Marvin Janssen <https://marvin.id>. All rights reserved. This is
+internal unpublished code. You may not copy, distribute, or use this code in
+any shape or form; including, but not limited to, commercial and non-commercial
+purposes.
